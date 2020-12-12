@@ -16,13 +16,22 @@
 > - **To Encode**  
 > RGBCrpto.py decode FILE.txt  
 
-
 #### Encoder - [encode.py](/encode.py)
 
 #### Decoder - [decode.py](/decode.py)
 
-## Exaample
-<p align="center">
-  <p><b>this game</b><br> <img src=game.png width=400></img></p> 
-  <p><b>into this file</b><br><img src=kkrieger.exe.png width=200 ></img></p>
-</p>
+## Game File
+<p><b>kkrieger game</b><br> <img src=game.png width=400></img></p> 
+
+### File to numbers
+- Transform the file into a byte array  
+**[ 34 , 234 , 67 , 8 , 45 , 23 , 253 , 124 , 32 ]**
+
+### Numbers to colors
+- Put the numbers of the byte array into a rgb code list  
+**(34 , 234 , 67) (8 , 45 , 23) (253 , 124 , 32)**
+
+### Colors to images
+
+## Final image
+<p><b>kkrieger image</b><br><img src=kkrieger.exe.png width=200 ></img></p>
