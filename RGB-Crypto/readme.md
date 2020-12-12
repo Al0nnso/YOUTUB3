@@ -1,5 +1,6 @@
 <h1 align="center">
 <br>
+  <img src=kkrieger.exe.png width=80></img><br>
   RGB CRYPTO
 <br>
 </h1>
@@ -19,3 +20,9 @@
 #### Encoder - [encode.py](/encode.py)
 
 #### Decoder - [decode.py](/decode.py)
+
+## Exaample
+<p align="center">
+<b>this game </b> <img src=game.png width=500></img> <b> to this file --> </b>
+<img src=kkrieger.exe.png width=200 ></img>
+</p>
