@@ -1,7 +1,14 @@
-# Andres Alonso
 <img src="banner-small.jpg"></img>
+<h1 align="center">
+  Andres Alonso
+</h1>
+<p align="center">
 Scripts and app of my youtube channel  
-[**My Youtube Channel**](https://youtube.com/AndresAlonsoCanal)  
+</p>
+<a align="center" href=https://youtube.com/AndresAlonsoCanal>
+ My Youtube Channel
+</a>
+
 <br>
 
 ## 📄 Transformando ARQUIVOS EM IMAGENS
