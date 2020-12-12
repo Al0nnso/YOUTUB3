@@ -2,6 +2,7 @@
 Scripts and app of my youtube channel  
 [**My Youtube Channel**](https://youtube.com/AndresAlonsoCanal)  
 
+---
 
 ### 📄 Transformando ARQUIVOS EM IMAGENS
 Script para transformar os bytes de um arquivo em pixels de uma imagem  
