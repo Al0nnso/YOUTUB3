@@ -1,4 +1,3 @@
-# BOB Ransomware
 
 <h1 align="center">
 <br>
@@ -10,4 +9,5 @@
 <p align="center">Exemplo de um ransomware que criptografa arquivos em .bob</p>
 <br>
 
+### Python Script  
 [ransomware.py](ransomware.py)
