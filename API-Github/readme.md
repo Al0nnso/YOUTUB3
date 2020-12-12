@@ -8,6 +8,9 @@
 <p align="center">Código de uma live que crio um script integrado com a API do github</p>
 <br>
 
+- Load github profile data
+- Load github repositories
+
 ```
 ##############################
 #### Seus dados do github ####
