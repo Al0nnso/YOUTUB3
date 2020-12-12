@@ -1,5 +1,6 @@
 <img src="banner-small.jpg"></img>
 <h1 align="center">
+  <img width=80 src=icon.png></img><br>
   Andres Alonso
 </h1>
 <p align="center">
