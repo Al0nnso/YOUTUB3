@@ -3,11 +3,12 @@
   Andres Alonso
 </h1>
 <p align="center">
-Scripts and app of my youtube channel  
+  Scripts and app of my youtube channel<br>
+  <a href=https://youtube.com/AndresAlonsoCanal>
+   My Youtube Channel
+  </a>
 </p>
-<a align="center" href=https://youtube.com/AndresAlonsoCanal>
- My Youtube Channel
-</a>
+
 
 <br>
 
