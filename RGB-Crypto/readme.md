@@ -23,6 +23,6 @@
 
 ## Exaample
 <p align="center">
-<b>this game </b> <img src=game.png width=500></img> <b> to this file --> </b>
-<img src=kkrieger.exe.png width=200 ></img>
+  <p><b>this game</b><br> <img src=game.png width=500></img></p> 
+  <p><b>into this file</b><br><img src=kkrieger.exe.png width=200 ></img></p>
 </p>
