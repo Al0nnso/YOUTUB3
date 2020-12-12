@@ -32,6 +32,8 @@
 **(34 , 234 , 67) (8 , 45 , 23) (253 , 124 , 32)**
 
 ### Colors to images
+- Export the rgb code list into a image
+- Complete the final pixels with **(255 , 255 ,255)** to make a square
 
 ## Final image
 <p><b>kkrieger image</b><br><img src=kkrieger.exe.png width=200 ></img></p>
