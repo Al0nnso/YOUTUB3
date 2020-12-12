@@ -10,4 +10,4 @@
 <br>
 
 ### Python Script  
-[ransomware.py](ransomware.py)
+[ransonware.py](ransonware.py)
