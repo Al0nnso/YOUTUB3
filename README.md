@@ -1,8 +1,7 @@
 # Andres Alonso
 Scripts and app of my youtube channel  
 [**My Youtube Channel**](https://youtube.com/AndresAlonsoCanal)  
-
----
+<br>
 
 ## 📄 Transformando ARQUIVOS EM IMAGENS
 Script para transformar os bytes de um arquivo em pixels de uma imagem  
@@ -17,6 +16,6 @@ Exemplo de um ransomware que criptografa arquivos em **.bob**
 
 
 ## 📄 PRIMEIRA LIVE - USANDO A API DO GITHUB
-Código de uma live que crio um script integrado com a API do github
-**[CÓDIGO](/API-Github/) - <!--[VIDEO](https://www.youtube.com/watch?v=ELas5noeXiU)**-->
+Código de uma live que crio um script integrado com a API do github  
+**[CÓDIGO](/API-Github/) - <!--[VIDEO](https://www.youtube.com/watch?v=ELas5noeXiU)-->**
 > python | api | requests
