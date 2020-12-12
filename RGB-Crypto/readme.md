@@ -9,7 +9,7 @@
 <br>
 
 ## All in one script  
-[RGBCrpto.py](RGBCrypto.py)
+[RGBCrpto.py](rgbCrypto.py)
 
 > - **To Decode**  
 > RGBCrpto.py encode FILE.txt  
@@ -18,7 +18,7 @@
 
 #### Encoder - [encode.py](encode.py)
 
-#### Decoder - [decode.py](decode.py)
+#### Decoder - [decode.py](decoder.py)
 
 ## ✅ Game File
 <p><b>kkrieger game</b><br> <img src=game.png width=400></img></p> 
