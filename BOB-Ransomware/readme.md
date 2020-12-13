@@ -11,6 +11,6 @@
 
 ### Python Script  
 [ransonware.py](ransonware.py)
-> - Cria arquivo .txt após criptografar
+> - Cria arquivo olha_aqui.txt após criptografar
 > - Define senha de 16 bytes
 > - Não fiz o decoder '-'
